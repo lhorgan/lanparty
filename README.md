@@ -1,2 +1,2 @@
 # lanparty
-Web dev project repo
+This is the repo for our CS4550 class project!
