@@ -1,5 +1,5 @@
 # lanparty
-This is the repo for our CS4550 class project!  This repository will eventually house the project's code, and is itself a project requirement.
+This is the wrapper repo for our CS4550 class project!
 
 1) The repo for our React client lives here: https://github.com/lhorgan/openrecipe
 2) The repo for our Spring server lives here: https://github.com/lhorgan/cs4550-lanparty-java
